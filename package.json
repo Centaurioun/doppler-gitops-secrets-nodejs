@@ -47,11 +47,10 @@
     "prettier-check": "prettier --check .",
     "prepublishOnly": "sed -i \"s/development/$npm_package_version/\" src/meta.js"
   },
-  "dependencies": {},
   "devDependencies": {
-    "@babel/core": "^7.17.8",
+    "@babel/core": "^7.20.12",
     "@babel/eslint-parser": "^7.17.0",
-    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-env": "^7.20.2",
     "@jest/globals": "^27.5.1",
     "babel-jest": "^27.5.1",
     "eslint": "^8.11.0",
