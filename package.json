@@ -60,6 +60,6 @@
     "eslint-plugin-security": "^1.4.0",
     "jest": "^27.5.1",
     "jest-node-exports-resolver": "^1.1.5",
-    "prettier": "^2.6.0"
+    "prettier": "^2.8.4"
   }
 }
