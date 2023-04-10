@@ -55,7 +55,7 @@
     "@jest/globals": "^27.5.1",
     "babel-jest": "^27.5.1",
     "eslint": "^8.11.0",
-    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-security": "^1.4.0",
     "jest": "^27.5.1",
